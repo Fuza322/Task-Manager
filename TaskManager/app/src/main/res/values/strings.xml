@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Task Manager</string>
+    <string name="edit_ignorelist_title">Task Manager - Edit Ignore List</string>
+    <string name="end_all_bt">End All</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_edit_ignore">Edit Ignore List</string>
+    <string name="menu_exit">Exit</string>
+    <string name="end_app">End Selected</string>
+    <string name="add_to_ignore_list">Ignore Selected</string>
+    <string name="app_info">App Info</string>
+    <string name="no_running_apps">No Running Apps</string>
+    <string name="preferences_title">Preferences</string>
+    <string name="settings">Settings</string>
+    <string name="memory_template">Ram Info: Available: %1$d MB. Total: %2$d MB.</string>
+    <string name="app_icon">App icon</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="edit_ignore_list">Edit ignore list</string>
+    <string name="tap_app_to_remove_from_ignore_list">Tap app to remove from ignore list</string>
+    <string name="more">More</string>
+</resources>
